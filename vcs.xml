@@ -18,6 +18,10 @@
           <option name="url" value="https://github.com/basantagit/class.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.com" />
+          <option name="userName" value="basanta" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="/var/www/html/orchid" />
